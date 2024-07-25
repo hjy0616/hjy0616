@@ -35,3 +35,12 @@ I'm Zelotheus, It's a mix of names that describe my personality.
 
 ## Contact
 - [@hjy__0616](https://www.instagram.com/hjy__0616/) on instagram
+
+
+## Git States
+<div align="center">
+  ![Zelotheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjy0616&show_icons=true&theme=dracula)
+</div>
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjy0616&layout=compact&theme=dracula)
+</div>
