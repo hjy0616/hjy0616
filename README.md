@@ -16,6 +16,7 @@ I'm Zelotheus, It's a mix of names that describe my personality.
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=ffffff)
 ![Solidity](https://img.shields.io/badge/-solidity-363636?style=flat&logo=solidity&logoColor=ffffff)
 <br></br>
 🚀 Framework
