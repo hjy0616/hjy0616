@@ -18,6 +18,8 @@ I'm Zelotheus, It's a mix of names that describe my personality.
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=ffffff)
 ![Solidity](https://img.shields.io/badge/-solidity-363636?style=flat&logo=solidity&logoColor=ffffff)
 <br></br>
+🚀 Framework
+<br></br>
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=nextdotjs)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat&logo=turborepo&logoColor=ffffff)
