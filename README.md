@@ -39,8 +39,9 @@ I'm Zelotheus, It's a mix of names that describe my personality.
 
 ## Git States
 <div align="center">
-  ![Zelotheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjy0616&show_icons=true&theme=dracula)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjy0616&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zelotheus's Github Stats">
 </div>
+<br></br>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjy0616&layout=compact&theme=dracula)
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjy0616&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zelotheus's Top Langs">
 </div>
