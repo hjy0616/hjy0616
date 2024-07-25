@@ -1,4 +1,4 @@
-## Hye! Nice to see you 👋
+## Hey! Nice to see you 👋
 
 <!--
 **hjy0616/hjy0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
