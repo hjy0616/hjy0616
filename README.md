@@ -32,6 +32,7 @@ I'm Zelotheus, It's a mix of names that describe my personality.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=ffffff)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-47A248?style=flat&logo=Mongodb&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-aws-232F3E?style=flat&logo=amazonwebservices&logoColor=ffffff)
+![vercel](https://img.shields.io/badge/-vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
 + a lot more :D
 
 ## Contact
