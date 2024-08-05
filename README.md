@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Zelotheus, It's a mix of names that describe my personality.
+I'm Zeometheus, It's a mix of names that describe my personality.
 
 
 - 👨‍💻 Founder of [focc](https://focc.kr)
