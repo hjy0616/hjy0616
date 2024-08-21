@@ -18,6 +18,7 @@ I'm Zelotheus, It's a mix of names that describe my personality.
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=ffffff)
 ![Solidity](https://img.shields.io/badge/-solidity-363636?style=flat&logo=solidity&logoColor=ffffff)
+![Tailwindcss](https://img.shields.io/badge/-tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff)
 <br></br>
 🚀 Framework
 <br></br>
@@ -25,6 +26,8 @@ I'm Zelotheus, It's a mix of names that describe my personality.
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=nextdotjs)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat&logo=turborepo&logoColor=ffffff)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=ffffff)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=ffffff)
+![ReactQuery](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=ffffff)
 <br></br>
 🖥️ Server
 <br></br>
