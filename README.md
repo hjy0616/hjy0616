@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Zelotheus, It's a mix of names that describe my personality.
-
+I'm Phantom616
 
 - 👨‍💻 Founder of [focc](https://focc.kr)
 - ♾️ Founder of [conferocoin]
