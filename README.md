@@ -39,6 +39,7 @@ I'm Odin
 
 ## Contact
 - [@hjy__0616](https://www.instagram.com/hjy__0616/) on instagram
+- [youtube](https://www.youtube.com/@soma_studio_1) on Youtube
 
 
 ## Git States
