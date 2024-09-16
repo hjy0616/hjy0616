@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Phantom616
+I'm Odin
 
 - 👨‍💻 Founder of [focc](https://focc.kr)
 - ♾️ Founder of [conferocoin]
