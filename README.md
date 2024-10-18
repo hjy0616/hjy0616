@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Odin
 
 - 👨‍💻 Founder of [focc](https://focc.kr)
 - ♾️ Founder of [conferocoin]
