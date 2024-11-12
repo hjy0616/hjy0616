@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Project
-- 👨‍💻 Founder of [focc](https://focc.kr)
-- ♾️ Founder of [conferocoin]
+- 👨‍💻 Founder of <del>[focc]</del>  Now changed to cafe24 😭
+- ♾️ Founder of <del>[conferocoin]</del> Now delete to conferoCoin 😭
 + a lot more ;)
 
 :page_with_curl: Skills
