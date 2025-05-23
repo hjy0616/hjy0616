@@ -39,9 +39,17 @@ Project
 + a lot more :D
 
 ## Contact
-- [@hjy__0616](https://www.instagram.com/hjy__0616/) on instagram
-- [youtube](https://www.youtube.com/@soma_studio_1) on Youtube
+- <a href="https://www.youtube.com/@soma_studio_1">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="24" alt="YouTube"/>
+</a>
 
+- <a href="https://www.instagram.com/hjy__0616/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="24" height="24" alt="YouTube"/>
+</a>
+
+- <a href="https://discord.gg/7sAYdbff">
+  <img src="https://skillicons.dev/icons?i=discord" width="24" height="24" alt="Discord"/>
+</a>
 
 ## Git States
 <div align="center">
