@@ -4,7 +4,6 @@ Project
 - 👨‍💻 Founder of <del>[focc]</del>  Now changed to cafe24 😭
 - ♾️ Founder of <del>[conferocoin]</del> Now delete to conferoCoin 😭
 - 📱 Freelancers of heroesofsports[https://www.heroesofsports.kr/]
-- 🎬 Freelancers of s4-entertainment[https://s4-entertainment.com/]
 + a lot more ;)
 
 :page_with_curl: Skills
