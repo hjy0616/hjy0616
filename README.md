@@ -55,9 +55,9 @@ Project
 
 ## Git States
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjy0616&theme=merko&show_icons=true" alt="Phantom616's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjy0616&theme=merko&show_icons=true" alt="gordon's Github Stats">
 </div>
 <br></br>
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjy0616&theme=merko&show_icons=true" alt="Phantom616's Top Langs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjy0616&theme=merko&show_icons=true" alt="gordon's Top Langs">
 </div>
